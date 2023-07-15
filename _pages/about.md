@@ -40,7 +40,7 @@ Here's quick preview of Kazi Amit Hasan:
 
 </ul>
 
-## Publications
+<!-- ## Publications
 
 <ul>
 	<li><b> Understanding the Time to First Response In GitHub Pull Requests [MSR'23]</b>
@@ -50,7 +50,7 @@ Here's quick preview of Kazi Amit Hasan:
 			Mining Software Repositories 2023
 			<br/>
 	</li>
-</ul>
+</ul> -->
 
 <!-- ## Teaching
 

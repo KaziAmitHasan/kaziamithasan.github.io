@@ -3,7 +3,9 @@ title: "Research"
 permalink: /research/
 ---
 
-I have had the opportunity to work on a number of interesting research projects during my Ph.D. My research work is focused towards data mining, machine learning, mining software repositories, software engineering, deep learning, data analytics. Here is a summary of some of my research efforts.
+I have had the opportunity to work on a number of interesting research projects during my Ph.D. My research work is focused towards data mining, machine learning, mining software repositories, software engineering, deep learning, data analytics. 
+
+Here is a summary of some of my research efforts.
 
 
 ## Understanding the Time to First Response In GitHub Pull Requests [MSR'23]
