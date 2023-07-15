@@ -42,6 +42,17 @@ Here's quick preview of Kazi Amit Hasan:
 
 </ul>
 
+Selected Publications
+============
+<ul>
+	<li><b>LocIn: Inferring Semantic Location from Spatial Maps in Mixed Reality</b>
+			<br/>
+			<b>Habiba Farrukh</b>, Reham Mohamed, Aniket Nare, Antonio Bianchi, Z. Berkay Celik
+			<br/>
+			USENIX Security Symposium 2023
+			<br/>
+	</li>
+</ul>
 
 Teaching
 ========

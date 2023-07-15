@@ -5,7 +5,10 @@ permalink: /publications/
 
 I have had the opportunity to work on a number of interesting research projects during my Ph.D. My research work is focused towards data mining, machine learning, mining software repositories, software engineering, deep learning, data analytics. Here is a summary of some of my research efforts.
 
-<a href = 'https://arxiv.org/abs/2304.08426'> Paper</a>, <a href = '#'> Replication Package</a>, <a href = 'https://github.com/RISElabQueens/PR-Accelerator'> Tool released </a>
+
+## Understanding the Time to First Response In GitHub Pull Requests [MSR'23]
+
+<a href = 'https://arxiv.org/abs/2304.08426'> Paper </a>, <a href = '#'> Replication Package </a>, <a href = 'https://github.com/RISElabQueens/PR-Accelerator'> Tool released </a>
 
 ### Authors: Kazi Amit Hasan, Marcos Macedo, Yuan Tian, Bram Adams, Steven Ding
 
