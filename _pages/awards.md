@@ -3,7 +3,7 @@ title: "Awards"
 permalink: /awards/
 ---
 
-Machine Learning Competitions Ranks (10++)
+## Machine Learning Competitions Ranks (10++)
 
  <ul>
 <li style="text-align: justify;"><strong> Runners Up </strong> in Robi Datathon 2.0. </li>
@@ -53,7 +53,7 @@ Machine Learning Competitions Ranks (10++)
 
  </ul>
 
-Board Scholarships
+## Scholarships
 
 <ul>
                 <li>Higher Secondary Certificate (HSC) Examination 2015</li>
