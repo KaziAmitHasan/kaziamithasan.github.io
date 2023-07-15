@@ -3,9 +3,6 @@ title: "Experience"
 permalink: /experiences/
 ---
 
-
-
-
 ## Queen's University
 
 Graduate Teaching Assistant (January 2023 - April, 2023)
@@ -54,7 +51,10 @@ Responsibilities:
   ystem that can detect features using a webcam.</li>
 <li>Worked on developing a symptom checker.</li>
 
-
-
 ## Projects
 
+### Prediction of Clinical Risk Factors of Diabetes Using Multiple Machine Learning Techniques Resolving Class Imbalance
+
+- A portion of my undergraduate thesis was published at 23rd International Conference on Computer and Information Technology (ICCIT) 2020. This work was done under the supervision of Asst Prof Barshon Sen. <p>Paper: <a href="https://ieeexplore.ieee.org/document/9392694">https://ieeexplore.ieee.org/document/9392694 </a><br>
+  Presentation: <a href="https://youtu.be/SkLwpha_ZRE">https://youtu.be/SkLwpha_ZRE</a>
+  </p>
