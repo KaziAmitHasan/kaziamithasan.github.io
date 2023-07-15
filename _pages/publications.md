@@ -7,9 +7,6 @@ I have had the opportunity to work on a number of interesting research projects 
 
 
 ## Understanding the Time to First Response In GitHub Pull Requests [MSR'23]
-
-<a href = 'https://arxiv.org/abs/2304.08426'> Paper </a>, <a href = '#'> Replication Package </a>, <a href = 'https://github.com/RISElabQueens/PR-Accelerator'> Tool released </a>
-
 ### Authors: Kazi Amit Hasan, Marcos Macedo, Yuan Tian, Bram Adams, Steven Ding
 
 The pull-based development paradigm is widely adopted by modern open-source software
@@ -30,3 +27,5 @@ for the first human response to a pull request. These findings are important for
 the delays they experience for their pull requests.
 
 **Impact:** We have released <a href = 'https://github.com/RISElabQueens/PR-Accelerator'> PR-Accelerator </a> which includes a set of tools that reports analytics and information regarding pull requests (PRs) and points out the delays in first response. This tool was presented in our paper titled [Understanding the Time to First Response In GitHub Pull Requests](https://arxiv.org/abs/2304.08426) published at the [MSR 2023](https://conf.researchr.org/home/msr-2023) conference.
+
+**Related resources:** <a href = 'https://arxiv.org/abs/2304.08426'> Paper </a>, <a href = '#'> Replication Package </a>, <a href = 'https://github.com/RISElabQueens/PR-Accelerator'> Tool released </a>
