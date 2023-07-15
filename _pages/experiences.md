@@ -3,7 +3,7 @@ title: "Experience"
 permalink: /experiences/
 ---
 
-### Queen's University
+## Queen's University
 Graduate Teaching Assistant (January 2023 - April, 2023)
 
 Responsibilities:
