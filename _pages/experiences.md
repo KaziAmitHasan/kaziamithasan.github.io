@@ -95,3 +95,17 @@ Responsibilities:
 - Detailed blog: <a href="https://amithasanshuvo.github.io/amit-blogs/health_analytics/machine_learning/jupyter/2021/08/14/Risk-Factors-Analysis-of-Musculoskeletal-Pain.html">(Link) </a>
 - Language used: Python
 - Development Tools: Jupyter Notebook
+
+
+### Implementations of Neural Network Algorithms
+- This repository contains the lab work of the course CSE 4204 (Sessional of Neural Networks and Fuzzy Systems). I have implemented Nearest Neighbor, Single Layer Perceptron Learning, Multi Layer Perceptron Learning, Kohonen Self-Organizing Neural Network annd Hopfield Neural Network algorithm.
+- Github: <a href="https://github.com/AmitHasanShuvo/Implementations-of-Neural-Network-Algorithms">(Link) </a>
+- Language used: Python
+- Development Tools: Jupyter Notebook
+
+
+### Sentiments Analysis of Twitter Data
+- A project which fetches real-time data from Twitter using credentials and analyzes the sentiments and generates a visual that represents the sentiments of a specific word/tweets. Users can submit a word and sample numbers, the UI will show the sentiment visuals.
+- Github: <a href="https://github.com/AmitHasanShuvo/TwitterMining">(Link) </a>
+- Language used: Python
+- Development Tools: Jupyter Notebook
