@@ -60,3 +60,11 @@ Here's quick preview of Kazi Amit Hasan:
 	</li>
 </ul>
 
+## Education
+
+<ul>
+	<li> Doctor of Philosophy - PhD in Computing, Queen's University
+  </li>
+  <li> Doctor of Philosophy - PhD in Computing, Queen's University
+  </li>
+</ul>
