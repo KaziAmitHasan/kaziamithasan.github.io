@@ -42,6 +42,7 @@ of their FourP data to assist the field force to take the right steps based on t
 ## MyMedicalHUB
 
 Research Student (May 2020 - September 2020)
+
 Responsibilities:
 
 <li>Developed a machine learning model that analyzes the potential risk
@@ -57,3 +58,19 @@ Responsibilities:
 - A portion of my undergraduate thesis was published at 23rd International Conference on Computer and Information Technology (ICCIT) 2020. This work was done under the supervision of Asst Prof Barshon Sen. <br>
   Paper: <a href="https://ieeexplore.ieee.org/document/9392694">https://ieeexplore.ieee.org/document/9392694 </a><br>
   Presentation: <a href="https://youtu.be/SkLwpha_ZRE">https://youtu.be/SkLwpha_ZRE</a>
+
+### PR Stats
+- PR-stats is an open-source python library that brings different stats about pull requests. 
+- Github: <a href="https://github.com/AmitHasanShuvo/PR-stats">PR Stats</a> <br>
+- Pypi link: <a href="https://pypi.org/project/pr-stats/">PR Stats</a> 
+
+### data inspecto
+- ata Inspector brings a total of 15 essential exploratory data analysis, data cleaning automations to make a dataset understandable. This is a perfect tool to get started with you data.
+- Github: <a href="https://github.com/AmitHasanShuvo/data-inspector">data-inspector</a> <br>
+- Pypi link: <a href="https://pypi.org/project/data-inspector/">data-inspector</a> 
+
+
+### An Empirical Study on the Latency of Time to First Response In GitHub Pull Requests
+- This is a course project of CISC 834. More details are coming soon.
+- Language used: Python 
+- Development Tools: Jupyter Notebook, PyCharm 
