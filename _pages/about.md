@@ -10,9 +10,18 @@ redirect_from:
 
 ## This website is under construction. 
 
-Kazi Amit Hasan is currently studying for his PhD at Queen's University in Canada, where he's also working as a research assistant at the RISE Lab under the supervision of Dr Yuan Tian and Dr. Steven Ding. 
+I am a PhD student in school of computing at Queen's University working under the supervision of Dr. Yuan Tian and Dr. Steven Ding. My research interests broadly lie in the area of data mining, software engineering and machine learning.  Before this, I worked as a Machine Learning Engineer at ACI Limited in Bangladesh. 
 
-Before this, he worked as a Machine Learning Engineer at ACI Limited in Bangladesh. He completed his undergraduate degree in Computer Science and Engineering at Rajshahi University of Engineering & Technology (RUET). Kazi is a standout participant in machine learning competitions, even earning the title of Kaggle Competition Expert, which puts him in the top 0.6% of all participants worldwide. He's placed high in more than 11 competitions, including those on Kaggle and Hackerearth. He's also contributed to the open-source community, with work on projects like data-inspector, pr-stats, and PR-Accelerator. His research mainly focuses on data mining, software engineering, machine learning, and data analytics. He has published a paper titled "Understanding the Time to First Response In GitHub Pull Requests," presented at the MSR 23 conference. Most recently, Kazi placed second in the Robi Datathon 2.0 competition, showing his continued excellence in machine learning and data science.
+Here's quick preview of Kazi Amit Hasan:
+
+- ***Open source contributions***: [data-inspector](https://pypi.org/project/data-inspector/), [pr-stats](https://pypi.org/project/pr-stats/) and [PR-Accelerator](https://github.com/RISElabQueens/PR-Accelerator)
+- ***5 years of experience in ML, DS, Analytics and Statistical Analysis***
+- ***Kaggle Competition Expert (x4) [Top 0.6%]***
+- ***Top ranks in 11++ ML competitions ([Kaggle](https://www.kaggle.com/amithasanshuvo)+[Hackerearth](https://www.hackerearth.com/@kaziamit))***
+- Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
+- **Latest Publication:** Understanding the Time to First Response In GitHub Pull Requests [MSR 23] 
+- **Latest ML Competition Rank:** ***Runners Up*** in Robi Datathon 2.0
+
 
 # Updates
 
@@ -42,3 +51,6 @@ Teaching
 	</li>
 </ul>
 
+
+Education
+======== 
