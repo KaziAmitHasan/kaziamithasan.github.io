@@ -77,6 +77,23 @@ permalink: /awards/
                   <b>General</b> Grade-Full Tuition Fee waiver in Bachelor
                   with around 71$ Stipend for the period of 2012 to 2013.
                 </p>
-                </p>
 
+
+</ul>
+
+
+## Others
+
+ <ul>
+            <li>Honored prize at "BUET EEE Day Inter-University Project Show 2017" in the Junior category.</li>
+              <p>- Worked as a team lead in an IoT project "Digital Traffic".<br>
+                - Contribution: Team lead, Ideation, Prototype Design</p>
+            <li>Technovation, 2018</li>
+            <li>IUT 9th ICT Fest, 2017</li>
+            <li>Mecceleration, 2017</li>
+            <li>SS12 Project Competition and Maker Fair, 2017</li>
+            <li>40 hours training on Advanced Mobile Game Development, 2017</li>
+            <li>40 hours training on Mobile Game Graphics Design, 2017</li>
+            <li>Mobile Appication Development, 2017</li>
+            <li>Power and Energy Hackathon 2017</li>
 </ul>
