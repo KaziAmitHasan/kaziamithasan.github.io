@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+## This website is under construction. 
+
 Kazi Amit Hasan is currently studying for his PhD at Queen's University in Canada, where he's also working as a research assistant at the RISE Lab under the supervision of Dr Yuan Tian and Dr. Steven Ding. Before this, he worked as a Machine Learning Engineer at ACI Limited in Bangladesh. He completed his undergraduate degree in Computer Science and Engineering at Rajshahi University of Engineering & Technology (RUET).
 
 Kazi is a standout participant in machine learning competitions, even earning the title of Kaggle Competition Expert, which puts him in the top 0.6% of all participants worldwide. He's placed high in more than 11 competitions, including those on Kaggle and Hackerearth.
