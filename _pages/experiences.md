@@ -8,6 +8,7 @@ permalink: /experiences/
 Graduate Teaching Assistant (January 2023 - Present)
 
 Responsibilities:
+
 <li> Teaching assistant of CISC 351: Advanced Data Analytics</li>
 
 ## ACI Limited
@@ -60,18 +61,29 @@ Responsibilities:
   Presentation: <a href="https://youtu.be/SkLwpha_ZRE">https://youtu.be/SkLwpha_ZRE</a>
 
 ## Projects
+
 ### PR Stats
-- PR-stats is an open-source python library that brings different stats about pull requests. 
+
+- PR-stats is an open-source python library that brings different stats about pull requests.
 - Github: <a href="https://github.com/AmitHasanShuvo/PR-stats">PR Stats</a> <br>
-- Pypi link: <a href="https://pypi.org/project/pr-stats/">PR Stats</a> 
+- Pypi link: <a href="https://pypi.org/project/pr-stats/">PR Stats</a>
 
 ### data inspector
+
 - Data Inspector brings a total of 15 essential exploratory data analysis, data cleaning automations to make a dataset understandable. This is a perfect tool to get started with you data.
 - Github: <a href="https://github.com/AmitHasanShuvo/data-inspector">data-inspector</a> <br>
-- Pypi link: <a href="https://pypi.org/project/data-inspector/">data-inspector</a> 
-
+- Pypi link: <a href="https://pypi.org/project/data-inspector/">data-inspector</a>
 
 ### An Empirical Study on the Latency of Time to First Response In GitHub Pull Requests
+
 - This is a course project of CISC 834. More details are coming soon.
+- Language used: Python
+- Development Tools: Jupyter Notebook, PyCharm
+
+### A Study on Privacy Preserving Machine Learning with Homomorphic Encryption
+
+- This is a course project of CISC 870. Machine learning is being used in sectors from different domains, it often needs to deal with data that are extremely confidential. When sensitive data is used to train a machine learning model, the model's reliance on sensitive user data renders it unsuitable for creating Machine Learning workflows without compromising user privacy and confidentiality. These considerations apply to each and every machine learning method or model that deal with sensitive data. According to the findings of this project, we recommend the adoption of a customized homomorphic encryption scheme as a means of mitigating this danger. This scheme will enable proper encryption of user data by making use of a combination of public and private keys. In this project, I have explored different types of homomorphic encryption schemes. Also, I experimented the scheme in a sensitive dataset using linear regression. It has been noted that the encryption does a good job of preserving the confidentiality of the input test data as well as the data that corresponds to the results of the regression model. It protects the machine learning model and any sensitive user data that is linked with it from attacks involving model inversion as well as membership inference.
+
+- Github: <a href="https://github.com/AmitHasanShuvo/CISC-870-Project">(Link)</a>
 - Language used: Python 
 - Development Tools: Jupyter Notebook, PyCharm 
