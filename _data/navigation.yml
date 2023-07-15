@@ -5,7 +5,10 @@ main:
       
   - title: "Experience"
     url: /Experience/
-      
+
+  - title: "Teaching"
+    url: /#teaching
+    
   - title: "CV"
     url: /files/CV.pdf    
 
