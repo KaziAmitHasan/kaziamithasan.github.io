@@ -22,7 +22,7 @@ Here's quick preview of Kazi Amit Hasan:
 - **Latest Publication:** Understanding the Time to First Response In GitHub Pull Requests [MSR 23]
 - **Latest ML Competition Rank:** **_Runners Up_** in Robi Datathon 2.0
 
-## Updates
+## Recent Updates!
 
 <ul>
           <li> [June 2023] Sub reviewer of ASE 2023</li>
@@ -34,13 +34,13 @@ Here's quick preview of Kazi Amit Hasan:
           <li> [September 2022] Received Queen's Graduate Award</li>
           <li> [September 2022] Started MSc in Computing (research-based) at Queen's University, Canada</li>
           <li> [August 2022] Runners Up among 358 teams in Robi Datathon 2.0</li>
-          <li> [June 2022] Selected as finalist (Top 6) among 358 teams in Robi Datathon 2.0</li>
-          <li> [February 2022] Completed One year at ACI Limited as a Machine Learning Engineer.</li>
-          <li> [January 2022] Got accepted in research based MSc program in Queen's University, Canada</li>
+          <!-- <li> [June 2022] Selected as finalist (Top 6) among 358 teams in Robi Datathon 2.0</li> -->
+          <!-- <li> [February 2022] Completed One year at ACI Limited as a Machine Learning Engineer.</li> -->
+          <!-- <li> [January 2022] Got accepted in research based MSc program in Queen's University, Canada</li> -->
 
 </ul>
 
-## Selected Publications
+## Publications
 
 <ul>
 	<li><b> Understanding the Time to First Response In GitHub Pull Requests [MSR'23]</b>
