@@ -52,13 +52,13 @@ Here's quick preview of Kazi Amit Hasan:
 	</li>
 </ul>
 
-## Teaching
+<!-- ## Teaching
 
 <ul>
 	<li>
 		Teaching Assistant, CISC 351: Advanced Data Analytics (Winter 2023)
 	</li>
-</ul>
+</ul> -->
 
 ## Education
 
