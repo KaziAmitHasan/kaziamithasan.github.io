@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching & Services"
 permalink: /teaching/
 ---
 
@@ -9,11 +9,9 @@ permalink: /teaching/
 	</li>
 </ul>
 
-
 ## Professional Activity
 
 <ul>
           <li> Sub reviewer of ASE 2023</li>
 
 </ul>
-
