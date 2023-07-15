@@ -35,19 +35,17 @@ of their FourP data to assist the field force to take the right steps based on t
 
 ## Kaggle Expert (x4)
 
-              <li><b>Competition Expert:</b> ranked 844th out of 162,151 </li>
-              <li><b>Notebooks Expert:</b> ranked 262th out of 140,050 </li>
-              <li><b>Discussion Expert: </b>ranked 283th out of 162,435 </li>
-              <li><b>Datasets Expert: </b>ranked 124th out of 25,284 </li>
-              <p style="text-align: justify;">- Created a few notebooks and solved real world problems, also contributed
-                in discussion and dataset section.</p>
-
+<li><b>Competition Expert:</b> ranked 844th out of 162,151 </li>
+ <li><b>Notebooks Expert:</b> ranked 262th out of 140,050 </li>
+ <li><b>Discussion Expert: </b>ranked 283th out of 162,435 </li>
+<li><b>Datasets Expert: </b>ranked 124th out of 25,284 </li>
 
 ## MyMedicalHUB
+
 Research Student (May 2020 - September 2020)
 
- <p style="text-align: justify;">- Developed a machine learning model that analyzes the potential risk
-                  factors of Musculoskeletal Pain and find out interesting patterns among the symptoms.</p>
-                <p style="text-align: justify;">- Developed a facial expression, age, sex detection and recognition
-                  system that can detect features using a webcam.</p>
-                <p style="text-align: justify;">- Worked on developing a symptom checker.</p>
+- Developed a machine learning model that analyzes the potential risk
+  factors of Musculoskeletal Pain and find out interesting patterns among the symptoms.
+- Developed a facial expression, age, sex detection and recognition
+  ystem that can detect features using a webcam.
+- Worked on developing a symptom checker.
