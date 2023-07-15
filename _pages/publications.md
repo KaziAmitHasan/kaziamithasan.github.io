@@ -9,6 +9,9 @@ I have had the opportunity to work on a number of interesting research projects 
 
 ### Authors: Kazi Amit Hasan, Marcos Macedo, Yuan Tian, Bram Adams, Steven Ding
 
+<a href = 'https://arxiv.org/abs/2304.08426'> Paper </a>| <a href = 'https://zenodo.org/record/7552809'> Replication Package </a> | <a href = 'https://github.com/RISElabQueens/PR-Accelerator'> Tool released </a>
+
+
 The pull-based development paradigm is widely adopted by modern open-source software
 (OSS) projects, enabling a pull request (PR) to pass through multiple validation stages, from PR
 assignment and continuous integration testing to the actual code review, before eventually being merged
@@ -26,4 +29,4 @@ developer team workload, and newly created projects have a higher correlation wi
 for the first human response to a pull request. These findings are important for newcomers to understand
 the delays they experience for their pull requests.
 
-Impact: We have released <a href = 'https://github.com/RISElabQueens/PR-Accelerator'> PR-Accelerator </a> which includes a set of tools that reports analytics and information regarding pull requests (PRs) and points out the delays in first response. This tool was presented in our paper titled [Understanding the Time to First Response In GitHub Pull Requests](https://arxiv.org/abs/2304.08426) published at the [MSR 2023](https://conf.researchr.org/home/msr-2023) conference.
+**Impact:** We have released <a href = 'https://github.com/RISElabQueens/PR-Accelerator'> PR-Accelerator </a> which includes a set of tools that reports analytics and information regarding pull requests (PRs) and points out the delays in first response. This tool was presented in our paper titled [Understanding the Time to First Response In GitHub Pull Requests](https://arxiv.org/abs/2304.08426) published at the [MSR 2023](https://conf.researchr.org/home/msr-2023) conference.
