@@ -22,7 +22,7 @@ Here's quick preview of Kazi Amit Hasan:
 - **Latest Publication:** Understanding the Time to First Response In GitHub Pull Requests [MSR 23]
 - **Latest ML Competition Rank:** **_Runners Up_** in Robi Datathon 2.0
 
-# Updates
+## Updates
 
 <ul>
           <li> [June 2023] Sub reviewer of ASE 2023</li>
@@ -40,7 +40,7 @@ Here's quick preview of Kazi Amit Hasan:
 
 </ul>
 
-# Selected Publications
+## Selected Publications
 
 <ul>
 	<li><b> Understanding the Time to First Response In GitHub Pull Requests [MSR'23]</b>
@@ -52,7 +52,7 @@ Here's quick preview of Kazi Amit Hasan:
 	</li>
 </ul>
 
-# Teaching
+## Teaching
 
 <ul>
 	<li>
