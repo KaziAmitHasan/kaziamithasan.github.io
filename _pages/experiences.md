@@ -4,7 +4,7 @@ permalink: /experiences/
 ---
 
 ### Queen's University
-#### Graduate Teaching Assistant (January 2023 - April, 2023)
+Graduate Teaching Assistant (January 2023 - April, 2023)
 
 Responsibilities:
 <li> CISC 351: Advanced Data Analytics</li>
