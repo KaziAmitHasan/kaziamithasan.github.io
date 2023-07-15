@@ -51,21 +51,22 @@ Responsibilities:
   ystem that can detect features using a webcam.</li>
 <li>Worked on developing a symptom checker.</li>
 
-## Thesis & Projects
+## Thesis
 
-### [Thesis] Prediction of Clinical Risk Factors of Diabetes Using Multiple Machine Learning Techniques Resolving Class Imbalance
+### Prediction of Clinical Risk Factors of Diabetes Using Multiple Machine Learning Techniques Resolving Class Imbalance
 
 - A portion of my undergraduate thesis was published at 23rd International Conference on Computer and Information Technology (ICCIT) 2020. This work was done under the supervision of Asst Prof Barshon Sen. <br>
   Paper: <a href="https://ieeexplore.ieee.org/document/9392694">https://ieeexplore.ieee.org/document/9392694 </a><br>
   Presentation: <a href="https://youtu.be/SkLwpha_ZRE">https://youtu.be/SkLwpha_ZRE</a>
 
+## Projects
 ### PR Stats
 - PR-stats is an open-source python library that brings different stats about pull requests. 
 - Github: <a href="https://github.com/AmitHasanShuvo/PR-stats">PR Stats</a> <br>
 - Pypi link: <a href="https://pypi.org/project/pr-stats/">PR Stats</a> 
 
-### data inspecto
-- ata Inspector brings a total of 15 essential exploratory data analysis, data cleaning automations to make a dataset understandable. This is a perfect tool to get started with you data.
+### data inspector
+- Data Inspector brings a total of 15 essential exploratory data analysis, data cleaning automations to make a dataset understandable. This is a perfect tool to get started with you data.
 - Github: <a href="https://github.com/AmitHasanShuvo/data-inspector">data-inspector</a> <br>
 - Pypi link: <a href="https://pypi.org/project/data-inspector/">data-inspector</a> 
 
