@@ -45,11 +45,11 @@ Here's quick preview of Kazi Amit Hasan:
 Selected Publications
 ============
 <ul>
-	<li><b>LocIn: Inferring Semantic Location from Spatial Maps in Mixed Reality</b>
+	<li><b>L## Understanding the Time to First Response In GitHub Pull Requests [MSR'23]</b>
 			<br/>
-			<b>Habiba Farrukh</b>, Reham Mohamed, Aniket Nare, Antonio Bianchi, Z. Berkay Celik
+			<b>Kazi Amit Hasan</b>, Marcos Macedo, Yuan Tian, Bram Adams, Steven Ding
 			<br/>
-			USENIX Security Symposium 2023
+			Mining Software Repositories 2023
 			<br/>
 	</li>
 </ul>
