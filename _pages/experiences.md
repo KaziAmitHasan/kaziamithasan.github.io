@@ -44,8 +44,8 @@ of their FourP data to assist the field force to take the right steps based on t
 
 Research Student (May 2020 - September 2020)
 
-- Developed a machine learning model that analyzes the potential risk
-  factors of Musculoskeletal Pain and find out interesting patterns among the symptoms.
-- Developed a facial expression, age, sex detection and recognition
-  ystem that can detect features using a webcam.
-- Worked on developing a symptom checker.
+<li>Developed a machine learning model that analyzes the potential risk
+  factors of Musculoskeletal Pain and find out interesting patterns among the symptoms.</li>
+<li>Developed a facial expression, age, sex detection and recognition
+  ystem that can detect features using a webcam.</li>
+<li>Worked on developing a symptom checker.</li>

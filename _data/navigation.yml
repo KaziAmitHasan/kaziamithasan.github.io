@@ -12,6 +12,9 @@ main:
   - title: "Services"
     url: /services/
 
+  - title: "Achievements & Awards"
+    url: /awards/
+    
   - title: "CV"
     url: /files/CV.pdf    
 
