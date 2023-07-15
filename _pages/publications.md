@@ -7,7 +7,9 @@ I have had the opportunity to work on a number of interesting research projects 
 
 ## Understanding the Time to First Response In GitHub Pull Requests [MSR'23]
 
-Abstract: The pull-based development paradigm is widely adopted by modern open-source software
+### Authors: Kazi Amit Hasan, Marcos Macedo, Yuan Tian, Bram Adams, Steven Ding
+
+The pull-based development paradigm is widely adopted by modern open-source software
 (OSS) projects, enabling a pull request (PR) to pass through multiple validation stages, from PR
 assignment and continuous integration testing to the actual code review, before eventually being merged
 into the project or rejected. Due to the distributed collaboration characteristics of open-source
@@ -23,3 +25,5 @@ from human responses. Moreover, we also find that projects with a low PR success
 developer team workload, and newly created projects have a higher correlation with a longer waiting time
 for the first human response to a pull request. These findings are important for newcomers to understand
 the delays they experience for their pull requests.
+
+Impact: We have released <a href = 'https://github.com/RISElabQueens/PR-Accelerator'> PR-Accelerator </a> which includes a set of tools that reports analytics and information regarding pull requests (PRs) and points out the delays in first response. This tool was presented in our paper titled [Understanding the Time to First Response In GitHub Pull Requests](https://arxiv.org/abs/2304.08426) published at the [MSR 2023](https://conf.researchr.org/home/msr-2023) conference.
