@@ -55,7 +55,6 @@ Responsibilities:
 
 ### [Thesis] Prediction of Clinical Risk Factors of Diabetes Using Multiple Machine Learning Techniques Resolving Class Imbalance
 
-- A portion of my undergraduate thesis was published at 23rd International Conference on Computer and Information Technology (ICCIT) 2020. This work was done under the supervision of Asst Prof Barshon Sen. 
-Paper: <a href="https://ieeexplore.ieee.org/document/9392694">https://ieeexplore.ieee.org/document/9392694 </a><br>
-Presentation: <a href="https://youtu.be/SkLwpha_ZRE">https://youtu.be/SkLwpha_ZRE</a>
-  
+- A portion of my undergraduate thesis was published at 23rd International Conference on Computer and Information Technology (ICCIT) 2020. This work was done under the supervision of Asst Prof Barshon Sen. <br>
+  Paper: <a href="https://ieeexplore.ieee.org/document/9392694">https://ieeexplore.ieee.org/document/9392694 </a><br>
+  Presentation: <a href="https://youtu.be/SkLwpha_ZRE">https://youtu.be/SkLwpha_ZRE</a>
