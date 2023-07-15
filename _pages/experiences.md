@@ -51,9 +51,9 @@ Responsibilities:
   ystem that can detect features using a webcam.</li>
 <li>Worked on developing a symptom checker.</li>
 
-## Projects
+## Thesis & Projects
 
-### Prediction of Clinical Risk Factors of Diabetes Using Multiple Machine Learning Techniques Resolving Class Imbalance
+### [Thesis] Prediction of Clinical Risk Factors of Diabetes Using Multiple Machine Learning Techniques Resolving Class Imbalance
 
 - A portion of my undergraduate thesis was published at 23rd International Conference on Computer and Information Technology (ICCIT) 2020. This work was done under the supervision of Asst Prof Barshon Sen. 
 Paper: <a href="https://ieeexplore.ieee.org/document/9392694">https://ieeexplore.ieee.org/document/9392694 </a><br>
