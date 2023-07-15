@@ -63,7 +63,7 @@ Here's quick preview of Kazi Amit Hasan:
 ## Education
 
 <ul>
-	<li> Doctor of Philosophy - PhD in Computing, Queen's University (May 2023 - Present)
+	<li> [Current] Doctor of Philosophy - PhD in Computing, Queen's University (May 2023 - Present)
   </li>
   <li> Master of Science - MSc in Computing, Queen's University (September 2022 - May 2023)
   <p>Promoted to doctoral program without completion of your master’s degree for excellent research contribution</p>
