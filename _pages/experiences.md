@@ -87,3 +87,11 @@ Responsibilities:
 - Github: <a href="https://github.com/AmitHasanShuvo/CISC-870-Project">(Link)</a>
 - Language used: Python 
 - Development Tools: Jupyter Notebook, PyCharm 
+
+
+### Risk Factors Analysis of Musculoskeletal Pain in Clinical Practice
+- In this project, I tried to analyze the risk factors of Musculoskeletal Pain and tried to find out some interesting patterns among the symptoms. Association Rule mining and Statistical Logistic Regression were used to get the insights and to find out the risks.
+- Github: <a href="https://github.com/AmitHasanShuvo/Musculoskeletal-Pain">(Link) </a>
+- Detailed blog: <a href="https://amithasanshuvo.github.io/amit-blogs/health_analytics/machine_learning/jupyter/2021/08/14/Risk-Factors-Analysis-of-Musculoskeletal-Pain.html">(Link) </a>
+- Language used: Python
+- Development Tools: Jupyter Notebook
