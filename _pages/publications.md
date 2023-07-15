@@ -9,7 +9,7 @@ I have had the opportunity to work on a number of interesting research projects 
 
 ### Authors: Kazi Amit Hasan, Marcos Macedo, Yuan Tian, Bram Adams, Steven Ding
 
-<a href = 'https://arxiv.org/abs/2304.08426'> Paper </a>| <a href = '#'> Replication Package </a> | <a href = 'https://github.com/RISElabQueens/PR-Accelerator'> Tool released </a>
+<a href = 'https://arxiv.org/abs/2304.08426'> Paper </a>, <a href = '#'> Replication Package </a>, <a href = 'https://github.com/RISElabQueens/PR-Accelerator'> Tool released </a>
 
 
 The pull-based development paradigm is widely adopted by modern open-source software
