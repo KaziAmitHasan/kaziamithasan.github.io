@@ -13,7 +13,7 @@ permalink: /publications/
 	</li>
 </ul>
 <ul>
-	<li><b> ECG heartbeat classification using ensemble of efficient machine learning approaches on imbalanced datasets [ICAICT'20]</b>
+	<li><b> ECG heartbeat classification using ensemble of efficient machine learning approaches on imbalanced datasets</b>
 			<br>
 			Md Atik Ahamed,<b>Kazi Amit Hasan</b>, Khan Fashee Monowar, Nowfel Mashnoor, Md Ali Hossain
 			<br>
