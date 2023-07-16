@@ -17,7 +17,37 @@ permalink: /publications/
 			<br/>
 			Md Atik Ahamed, <b>Kazi Amit Hasan</b>, Khan Fashee Monowar, Nowfel Mashnoor, Md Ali Hossain
 			<br/>
-			2020 2nd International Conference on Advanced Information and Communication Technology (ICAICT) <a href='https://www.researchgate.net/profile/Md-Atik-Ahamed/publication/348975016_ECG_Heartbeat_Classification_Using_Ensemble_of_Efficient_Machine_Learning_Approaches_on_Imbalanced_Datasets/links/601a562092851c4ed545f6f4/ECG-Heartbeat-Classification-Using-Ensemble-of-Efficient-Machine-Learning-Approaches-on-Imbalanced-Datasets.pdf'>[Paper]</a>
+			2020 2nd International Conference on Advanced Information and Communication Technology (ICAICT) <a href='https://ieeexplore.ieee.org/abstract/document/9333534'>[Paper]</a>
+            <br/>
+	</li>
+</ul>
+
+<ul>
+	<li><b> Prediction of clinical risk factors of diabetes using multiple machine learning techniques resolving class imbalance</b>
+			<br/>
+			<b>Kazi Amit Hasan</b>, Md Al Mehedi Hasan
+			<br/>
+			2020 23rd International Conference on Computer and Information Technology (ICCIT) <a href='https://ieeexplore.ieee.org/abstract/document/9392694'>[Paper]</a>
+            <br/>
+	</li>
+</ul>
+
+<ul>
+	<li><b> Classification of Parkinson's Disease by Analyzing Multiple Vocal Features Sets</b>
+			<br/>
+			<b>Kazi Amit Hasan</b>, Md Al Mehedi Hasan
+			<br/>
+			2020 IEEE Region 10 Symposium (TENSYMP) <a href='https://ieeexplore.ieee.org/abstract/document/9230842'>[Paper]</a>
+            <br/>
+	</li>
+</ul>
+
+<ul>
+	<li><b> Identification and Analysis of Risk Factors of Lower Back Pain Using Machine Learning Approaches</b>
+			<br/>
+			<b>Kazi Amit Hasan</b>, Md Al Mehedi Hasan
+			<br/>
+			2020 11th International Conference on Electrical and Computer Engineering (ICECE) <a href='https://ieeexplore.ieee.org/abstract/document/9393098'>[Paper]</a>
             <br/>
 	</li>
 </ul>
