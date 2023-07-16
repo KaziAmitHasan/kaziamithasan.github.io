@@ -11,6 +11,8 @@ permalink: /publications/
 			Mining Software Repositories 2023 (MSR'23) <a href='https://arxiv.org/abs/2304.08426'>[Paper]</a>
 			<br>
 	</li>
+</ul>
+<ul>
 	<li><b> ECG heartbeat classification using ensemble of efficient machine learning approaches on imbalanced datasets [ICAICT'20]</b>
 			<br>
 			Md Atik Ahamed,<b>Kazi Amit Hasan</b>, Khan Fashee Monowar, Nowfel Mashnoor, Md Ali Hossain
