@@ -56,6 +56,7 @@ permalink: /awards/
 ## Scholarships
 
 <ul>
+                <li>Queen's Graduate Award, 2022</li>
                 <li>Higher Secondary Certificate (HSC) Examination 2015</li>
                 <p style="text-align: justify;">- <b>Awarded Rajshahi board Scholarship </b> for excellency
                   in Higher Secondary Certificate (HSC) examination in
@@ -78,9 +79,7 @@ permalink: /awards/
                   with around 71$ Stipend for the period of 2012 to 2013.
                 </p>
 
-
 </ul>
-
 
 ## Others
 
