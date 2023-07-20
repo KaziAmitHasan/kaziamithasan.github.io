@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## This website is under construction.
-
-I am a PhD student in school of computing at Queen's University working under the supervision of Dr. Yuan Tian and Dr. Steven Ding. My research interests broadly lie in the area of data mining, software engineering and machine learning. Before this, I worked as a Machine Learning Engineer at ACI Limited in Bangladesh.
+Kazi Amit Hasan is currently pursuing his PhD in Computing at Queen's University under the supervision of Dr. Yuan Tian and Dr. Steven Ding. His research interests encompass a broad spectrum, including data mining, software engineering, and machine learning. Prior to his doctoral studies, he worked as a Machine Learning Engineer at ACI Limited in Bangladesh.
 
 Here's quick preview of Kazi Amit Hasan:
 
