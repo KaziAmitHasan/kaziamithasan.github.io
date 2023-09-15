@@ -23,6 +23,7 @@ Here's quick preview of Kazi Amit Hasan:
 ## Recent Updates!
 
 <ul>
+          <li> [September 2023] Paper accepted in SSCI 2023</li>
           <li> [September 2023] Received International Queen's Graduate Award</li>
           <li> [June 2023] Sub reviewer of ASE 2023</li>
           <li> [May 2023] Promoted to PhD program from MSc at Queen's University, Canada</li>
