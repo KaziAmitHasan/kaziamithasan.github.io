@@ -9,6 +9,7 @@ Graduate Teaching Assistant (January 2023 - Present)
 
 Responsibilities:
 
+<li> Teaching assistant of CISC 320: Fundamentals of Software Development</li>
 <li> Teaching assistant of CISC 351: Advanced Data Analytics</li>
 
 ## ACI Limited
