@@ -56,6 +56,7 @@ permalink: /awards/
 ## Scholarships
 
 <ul>
+                <li>Queen's University International General Bursary Award, 2022</li>
                 <li>Queen's Graduate Award, 2022</li>
                 <li>Higher Secondary Certificate (HSC) Examination 2015</li>
                 <p style="text-align: justify;">- <b>Awarded Rajshahi board Scholarship </b> for excellency
