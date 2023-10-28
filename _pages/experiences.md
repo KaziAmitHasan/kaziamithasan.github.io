@@ -12,6 +12,12 @@ Responsibilities:
 <li> Teaching assistant of CISC 320: Fundamentals of Software Development</li>
 <li> Teaching assistant of CISC 351: Advanced Data Analytics</li>
 
+## Louis W Bray Construction Limited (MITACS Business Strategy Internship)
+
+Data Scientist Intern (October 2023 - Present)
+
+I have been awarded the MITACS Business Strategy Internship (BSI) to work with Louis W Bray Construction Limited this fall. I will be collaborating with the Louis W Bray team on an engaging data science project, aiming to provide them with enhanced analysis and insights into industry data.
+
 ## ACI Limited
 
 Machine Learning Engineer (February, 2021 - July, 2022)

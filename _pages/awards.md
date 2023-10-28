@@ -3,6 +3,37 @@ title: "Awards"
 permalink: /awards/
 ---
 
+## Scholarships
+
+<ul>
+                <li>Awarded MITACS Business Strategy Internship (BSI), 2023</li>
+                <li>Queen's University International General Bursary Award, 2022</li>
+                <li>Queen's Graduate Award, 2022</li>
+                <li>Higher Secondary Certificate (HSC) Examination 2015</li>
+                <p style="text-align: justify;">- <b>Awarded Rajshahi board Scholarship </b> for excellency
+                  in Higher Secondary Certificate (HSC) examination in
+                  <b>TalentPool</b> Grade-Full Tuition Fee waiver in Bachelor
+                  with around 550$ Stipend for the period of 2016 to 2020.
+                </p>
+                <p style="text-align: justify;">- <b>Secured the position of 13th</b> in Rajshahi Board in Higher
+                  Secondary Certificate (HSC),
+                  examination, 2015 <a
+                    href="https://drive.google.com/open?id=1nk0QfGRe8G8ep_23acjM5MHO4Xx3rRYo">(Link)</a>
+                </p>
+
+</ul>
+<ul>
+                <hr>
+                <li>Junior School Certificate (JSC) Examination 2011</li>
+                <p style="text-align: justify;">- <b> Rajshahi board Scholarship </b> excellency
+                  in Junior School Certificate (JSC) examination in
+                  <b>General</b> Grade-Full Tuition Fee waiver in Bachelor
+                  with around 71$ Stipend for the period of 2012 to 2013.
+                </p>
+
+</ul>
+
+
 ## Machine Learning Competitions Ranks (10++)
 
  <ul>
@@ -53,34 +84,7 @@ permalink: /awards/
 
  </ul>
 
-## Scholarships
 
-<ul>
-                <li>Queen's University International General Bursary Award, 2022</li>
-                <li>Queen's Graduate Award, 2022</li>
-                <li>Higher Secondary Certificate (HSC) Examination 2015</li>
-                <p style="text-align: justify;">- <b>Awarded Rajshahi board Scholarship </b> for excellency
-                  in Higher Secondary Certificate (HSC) examination in
-                  <b>TalentPool</b> Grade-Full Tuition Fee waiver in Bachelor
-                  with around 550$ Stipend for the period of 2016 to 2020.
-                </p>
-                <p style="text-align: justify;">- <b>Secured the position of 13th</b> in Rajshahi Board in Higher
-                  Secondary Certificate (HSC),
-                  examination, 2015 <a
-                    href="https://drive.google.com/open?id=1nk0QfGRe8G8ep_23acjM5MHO4Xx3rRYo">(Link)</a>
-                </p>
-
-</ul>
-<ul>
-                <hr>
-                <li>Junior School Certificate (JSC) Examination 2011</li>
-                <p style="text-align: justify;">- <b> Rajshahi board Scholarship </b> excellency
-                  in Junior School Certificate (JSC) examination in
-                  <b>General</b> Grade-Full Tuition Fee waiver in Bachelor
-                  with around 71$ Stipend for the period of 2012 to 2013.
-                </p>
-
-</ul>
 
 ## Others
 
