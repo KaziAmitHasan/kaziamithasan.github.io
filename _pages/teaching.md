@@ -5,6 +5,9 @@ permalink: /teaching/
 
 <ul>
 	<li>
+		Head Teaching Assistant, CISC 235: Data Structure (Winter 2024)
+	</li>
+	<li>
 		Teaching Assistant, CISC 320: Fundamentals of Software Development (Fall 2023)
 	</li>
 	<li>

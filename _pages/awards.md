@@ -6,7 +6,8 @@ permalink: /awards/
 ## Scholarships
 
 <ul>
-                <li>Awarded MITACS Business Strategy Internship (BSI), 2023</li>
+                <li>Queen's University International General Bursary Award, 2023</li>
+                <li>Awarded MITACS Business Strategy Internship (BSI), 2023.</li>
                 <li>Queen's University International General Bursary Award, 2022</li>
                 <li>Queen's Graduate Award, 2022</li>
                 <li>Higher Secondary Certificate (HSC) Examination 2015</li>

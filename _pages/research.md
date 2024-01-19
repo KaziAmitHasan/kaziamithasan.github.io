@@ -14,7 +14,7 @@ Here is a summary of some of my research efforts.
 This paper presents a comprehensive analysis of the security aspects of the InsightFace project (a popular open-source face recognition system) focusing on its susceptibility to three distinct black box attacks: Face Swap, Morphing, and Presentation. Open-source face recognition models are used in commercial applications, thereby motivating our security analysis. Our investigation entails a meticulous evaluation of the susceptibility of the project to false authentication when subjected to the three attacks. We observed from our experiments that InsightFace was not able to differentiate between legitimate images and manipulated images. The principal aim of this research is to draw attention to the security challenges inherent in open-source face recognition systems, often integrated into various public applications.
 
 
-**Related resources:** <a href = '#'> Paper </a>
+**Related resources:** <a href = 'https://ieeexplore.ieee.org/abstract/document/10371801/'> Paper </a>
 
 
 ## Understanding the Time to First Response In GitHub Pull Requests [MSR'23]

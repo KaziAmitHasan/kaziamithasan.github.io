@@ -2,7 +2,16 @@
 title: "Publications"
 permalink: /publications/
 ---
-
+<ul>
+	<li><b> Vulnerability of Open-Source Face Recognition Systems to Blackbox Attacks: A Case Study with InsightFace</b>
+			<br/>
+		    Nafiz Sadman, <b>Kazi Amit Hasan</b>, Elyas Rashno, Furkan Alaca, Yuan Tian, Farhana Zulkernine
+			<br/>
+			2023 IEEE Symposium Series on Computational Intelligence (SSCI)
+ <a href='https://ieeexplore.ieee.org/abstract/document/10371801/'>[Paper]</a>
+			<br/>
+	</li>
+</ul>
 <ul>
 	<li><b> Understanding the Time to First Response In GitHub Pull Requests</b>
 			<br/>
