@@ -3,9 +3,14 @@ title: "Research"
 permalink: /research/
 ---
 
-I have had the opportunity to work on a number of interesting research projects during my Ph.D. My research work is focused towards data mining, machine learning, mining software repositories, software engineering, deep learning, data analytics. 
+I have had the opportunity to work on a number of interesting research projects during my Ph.D. My research work is focused towards data mining, machine learning, mining software repositories, software engineering, deep learning, data analytics.
 
 Here is a summary of some of my research efforts.
+
+## An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues (under review in EMSE)
+### Authors: Huizi Hao, Kazi Amit Hasan, Hong Qin, Marcos Macedo, Yuan Tian, Steven H. H. Ding , Ahmed E. Hassan
+
+Details will be available soon.
 
 
 ## Vulnerability of Open-source Face Recognition Systems to Blackbox Attacks: A Case Study With InsightFace [SSCI'23]
