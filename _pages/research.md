@@ -7,8 +7,9 @@ I have had the opportunity to work on a number of interesting research projects 
 
 Here is a summary of some of my research efforts.
 
-## An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues (under review in EMSE)
-### Authors: Huizi Hao, Kazi Amit Hasan, Hong Qin, Marcos Macedo, Yuan Tian, Steven H. H. Ding , Ahmed E. Hassan
+### Pre-prints
+**An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues (under review in EMSE)**
+**Authors:** Huizi Hao, Kazi Amit Hasan, Hong Qin, Marcos Macedo, Yuan Tian, Steven H. H. Ding , Ahmed E. Hassan
 
 Details will be available soon.
 
