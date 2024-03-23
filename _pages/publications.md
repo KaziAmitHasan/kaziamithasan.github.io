@@ -2,6 +2,17 @@
 title: "Publications"
 permalink: /publications/
 ---
+
+<ul>
+	<li><b> An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues</b>
+			<br/>
+		    Huizi Hao, <b>Kazi Amit Hasan</b>, Hong Qin, Marcos Macedo, Yuan Tian, Steven H. H. Ding , Ahmed E. Hassan
+			<br/>
+			under review in EMSE 
+ <a href='#'>[Paper]</a>
+			<br/>
+	</li>
+</ul>
 <ul>
 	<li><b> Vulnerability of Open-Source Face Recognition Systems to Blackbox Attacks: A Case Study with InsightFace</b>
 			<br/>
