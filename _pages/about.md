@@ -17,7 +17,7 @@ Here's quick preview of Kazi Amit Hasan:
 - **_Kaggle Competition Expert (x4) [Top 0.6%]_**
 - **_Top ranks in 11++ ML competitions ([Kaggle](https://www.kaggle.com/amithasanshuvo)+[Hackerearth](https://www.hackerearth.com/@kaziamit))_**
 - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
-- **Latest Publication:** Vulnerability of Open-source Face Recognition Systems to Blackbox Attacks: A Case Study With InsightFace [SSCI 23]
+- **Latest Publication:** An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues [preprint available]
 - **Latest ML Competition Rank:** **_Runners Up_** in Robi Datathon 2.0
 
 ## Education
@@ -34,6 +34,7 @@ Here's quick preview of Kazi Amit Hasan:
 ## Recent Updates!
 
 <ul>
+          <li> [March 2023] Submitted our work in EMSE </li>
           <li> [September 2023] Received MITACS Business Strategy Internship (BSI) at Louis W Bray Construction Limited as a Data Scientist Intern </li>
           <li> [September 2023] Presented Poster of "Understanding the Time to First Response In GitHub Pull Requests" at Wallenberg AI, Autonomous Systems and Software Program (WASP) at Queen's University, Canada </li>
           <li> [September 2023] Paper accepted in SSCI 2023</li>
@@ -72,5 +73,3 @@ Here's quick preview of Kazi Amit Hasan:
 		Teaching Assistant, CISC 351: Advanced Data Analytics (Winter 2023)
 	</li>
 </ul> -->
-
-
