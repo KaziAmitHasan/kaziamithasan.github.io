@@ -3,6 +3,15 @@ title: "Experience"
 permalink: /experiences/
 ---
 
+
+
+## Louis W Bray Construction Limited 
+
+Bid Optimization Analyst (August 2024 - Present)
+
+
+Working as a part time bid optimization analyst to help LWB to optimize and increase overall operational success utilizing data analytics and machine learning tools. 
+
 ## Queen's University
 
 Graduate Teaching Assistant (January 2023 - Present)
@@ -15,7 +24,7 @@ Responsibilities:
 
 ## Louis W Bray Construction Limited (MITACS Business Strategy Internship)
 
-Data Scientist Intern (October 2023 - Present)
+Data Scientist Intern (October 2023 - May 2024)
 
 I have been awarded the MITACS Business Strategy Internship (BSI) to work with Louis W Bray Construction Limited this fall. I will be collaborating with the Louis W Bray team on an engaging data science project, aiming to provide them with enhanced analysis and insights into industry data.
 
