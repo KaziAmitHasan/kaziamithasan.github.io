@@ -34,7 +34,9 @@ Here's quick preview of Kazi Amit Hasan:
 ## Recent Updates!
 
 <ul>
-          <li> [March 2023] Submitted our work in EMSE </li>
+          <li> [August 2024] Paper submitted to 2024 Workshop on Human Centric Software Engineering and Cyber Security (HCSE&CS 2024) </li>
+          <li> [August 2024] Joined LWB as part time bid optimization analyst. </li>
+          <li> [August 2024] Paper accepted in EMSE </li>
           <li> [September 2023] Received MITACS Business Strategy Internship (BSI) at Louis W Bray Construction Limited as a Data Scientist Intern </li>
           <li> [September 2023] Presented Poster of "Understanding the Time to First Response In GitHub Pull Requests" at Wallenberg AI, Autonomous Systems and Software Program (WASP) at Queen's University, Canada </li>
           <li> [September 2023] Paper accepted in SSCI 2023</li>
