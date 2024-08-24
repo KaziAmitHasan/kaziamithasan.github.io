@@ -34,6 +34,7 @@ Here's quick preview of Kazi Amit Hasan:
 ## Recent Updates!
 
 <ul>
+          <li> [August 2024] I am honored to serve on the program committee for HCSE&CS-2024. </li>
           <li> [August 2024] Paper submitted to 2024 Workshop on Human Centric Software Engineering and Cyber Security (HCSE&CS 2024) </li>
           <li> [August 2024] Joined LWB as part time bid optimization analyst. </li>
           <li> [August 2024] Paper accepted in EMSE </li>
