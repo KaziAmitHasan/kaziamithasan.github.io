@@ -18,7 +18,8 @@ permalink: /teaching/
 ## Academic Services
 
 <ul>
-          <li> Sub reviewer of FSE 2023</li>
+          <li> Program committee memmebr of HCSE&CS 2024</li>
+		  <li> Sub reviewer of FSE 2023</li>
 		  <li> Sub reviewer of ASE 2023</li>
 
 </ul>
