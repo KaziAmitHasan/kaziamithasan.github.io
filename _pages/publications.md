@@ -3,12 +3,24 @@ title: "Publications"
 permalink: /publications/
 ---
 
+
+<ul>
+	<li><b> A First Look at Self-Admitted Miscommunications in GitHub Issues</b>
+			<br/>
+		    <b>Kazi Amit Hasan</b>, Vu Thanh Loc Mai, Cynthia Wang, Yuan Tian, Steven H. H. Ding
+			<br/>
+			HSCE&CS 2024
+ <a href='#'>[Paper]</a>
+			<br/>
+	</li>
+</ul>
+
 <ul>
 	<li><b> An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues</b>
 			<br/>
 		    Huizi Hao, <b>Kazi Amit Hasan</b>, Hong Qin, Marcos Macedo, Yuan Tian, Steven H. H. Ding , Ahmed E. Hassan
 			<br/>
-			under review in EMSE 
+			Empirical Software Engineering (EMSE) 
  <a href='#'>[Paper]</a>
 			<br/>
 	</li>
