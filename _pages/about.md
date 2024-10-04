@@ -34,6 +34,8 @@ Here's quick preview of Kazi Amit Hasan:
 ## Recent Updates!
 
 <ul>
+          <li> [October 2024] I am honored to serve on the program committee for SANER 25. </li>
+          <li> [October 2024] I am honored to serve on the junior program committee for MSR 2025. </li>
           <li> [September 2023] Received International Queen's Graduate Award </li>
           <li> [September 2024] Selected as Head TA for CISC 320 in Fall 2024 </li>
           <li> [September 2024] Paper accepted to 2024 Workshop on Human Centric Software Engineering and Cyber Security (HCSE&CS 2024). </li>
