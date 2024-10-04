@@ -21,7 +21,9 @@ permalink: /teaching/
 ## Academic Services
 
 <ul>
-          <li> Program committee member of HCSE&CS 2024</li>
+          <li> Program committee member of SANER 2025</li>
+        <li> Junior Program committee member of MSR 2025</li>
+		  <li> Program committee member of HCSE&CS 2024</li>
 		  <li> Sub reviewer of FSE 2023</li>
 		  <li> Sub reviewer of ASE 2023</li>
 
