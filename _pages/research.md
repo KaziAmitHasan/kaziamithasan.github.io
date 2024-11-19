@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research & Developed Artifacts"
 permalink: /research/
 ---
 

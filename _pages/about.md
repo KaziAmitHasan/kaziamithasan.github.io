@@ -16,7 +16,7 @@ Here's quick preview of Kazi Amit Hasan:
 - **_5 years of experience in ML, DS, Analytics and Statistical Analysis_**
 - **_Kaggle Competition Expert (x4) [Top 0.6%]_**
 - **_Top ranks in 11++ ML competitions ([Kaggle](https://www.kaggle.com/amithasanshuvo)+[Hackerearth](https://www.hackerearth.com/@kaziamit))_**
-- Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)
+<!-- - Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/) -->
 - **Latest Publication:** A First Look at Self-Admitted Miscommunications in GitHub Issues [HSCE&CS 2024]
 - **Latest ML Competition Rank:** **_Runners Up_** in Robi Datathon 2.0
 
@@ -31,6 +31,7 @@ Here's quick preview of Kazi Amit Hasan:
   <li>Bachelor of Science - BSc in Computer Science & Engineering, Rajshahi University of Engineering & Technology
  (January 2016 - October 2021)</li>
 </ul>
+
 ## Recent Updates!
 
 <ul>
