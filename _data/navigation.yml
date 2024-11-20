@@ -12,8 +12,8 @@ main:
   - title: "Teaching & Services"
     url: /teaching/
 
-  - title: "Developed Artifacts for SE"
-    url: /services/
+  # - title: "Developed Artifacts for SE"
+  #   url: /services/
 
   - title: "Awards"
     url: /awards/

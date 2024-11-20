@@ -3,9 +3,9 @@ title: "Services"
 permalink: /services/
 ---
 
-#  Developed Artifacts
+#  Developed Artifacts for SE
 
 <ul>
-
+<li>
 
 </ul>
