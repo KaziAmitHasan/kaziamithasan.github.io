@@ -1,0 +1,134 @@
+
+
+      body {
+        margin: 0;
+      }
+      .name {
+        text-align: center;
+        padding: 10px;
+        size: large;
+        background-color: rgb(158, 0, 32);
+        text-decoration: none;
+      }
+      .name:hover{
+        text-decoration:none;
+      }
+	
+      .nav {
+        font-size: 15pt;
+        text-align: center;
+        background-color: rgb(158, 0, 32);
+      }
+      .nav-link {
+        text-decoration: none;
+        display: inline-block;
+        padding-bottom:10px;
+        padding-right:10px;
+        padding-left:10px;
+        color: white;
+        margin-bottom: 5px;
+      }
+
+      .nav-link:hover {
+        text-decoration: none;
+        color: rgb(91, 2, 20);
+      }
+
+    #headshot {
+        padding-top:15pt;
+        float: top;
+        
+    }
+
+    .footer {
+        text-align: center;
+        padding: 10px;
+        size: large;
+        background-color: rgb(158, 0, 32);
+        text-decoration: none;
+    } 
+    
+    .research-title {
+        color:white;
+        background-color: rgb(158, 0, 32);
+        padding: 1%;
+        text-decoration: none;
+    }
+
+    .column {
+        float: left;
+        width: 16.66%;
+        padding: 5px;
+      }
+      
+      /* Clearfix (clear floats) */
+      .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+
+    figcaption {
+        color: black;
+        padding: 2px;
+        text-align: center;
+        size-adjust: 70%;
+        font-size: 90%;
+	    white-space: normal;
+      }
+
+      .students {
+        padding: 0;
+        list-style-type: none;
+        display: flex;
+        justify-content:left;
+        flex-wrap: wrap;
+        gap: 2rem;
+        max-width:1000px;
+        flex-direction: row;
+       
+      }
+    
+      .students li {
+        padding: 1rem;
+        max-width: 125px;
+
+      }
+
+      .student p {
+        width: 100%;
+        text-align: center;
+      }
+
+      .student img {
+        max-width: 100%;
+        border-radius: 10px;
+      }
+
+      .long-list {
+        display: flex;
+      }
+
+      .main {
+        margin-left: 10%;
+        margin-right: 10%;
+      }
+
+      img .logo {
+        width: 20px;
+      }
+
+      .topics {
+        display: flex;
+        flex-direction: column;
+      }
+
+     .research-project img {
+        padding: 5px;
+        max-height: 200px;
+        float: left;
+     }
+
+     .research-project p {
+        text-align: justify;
+     }
