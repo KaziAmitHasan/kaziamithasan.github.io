@@ -35,6 +35,11 @@ Here's quick preview of Kazi Amit Hasan:
 ## Recent Updates!
 
 <ul>
+        <li>[January 2025] Paper accepted in MSR mining challenge track (MSR 2025)</li>
+        <li>[December 2024] Serving on the program committee for COMPSAC 2025.</li>
+
+        <li>[December 2024] Received travel grant from ACM SIGSOFT to participate in the ICSE’25 Student Mentoring Workshop in Ottawa, Canada. .</li>
+
           <li> [October 2024] I am honored to serve on the program committee for SANER 25. </li>
           <li> [October 2024] I am honored to serve on the junior program committee for MSR 2025. </li>
           <li> [September 2023] Received International Queen's Graduate Award </li>
