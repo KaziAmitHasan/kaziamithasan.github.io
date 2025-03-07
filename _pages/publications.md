@@ -2,7 +2,16 @@
 title: "Publications"
 permalink: /publications/
 ---
-
+<ul>
+	<li><b> Understanding Abandonment and Slowdown Dynamics in the Maven Ecosystem</b>
+			<br/>
+		    <b>Kazi Amit Hasan</b>, Jerin Yasmin, Huizi Hao, Yuan Tian, Safwat Hassan, Steven Ding
+			<br/>
+			MSR 25
+ <a href='#'>[Paper]</a>
+			<br/>
+	</li>
+</ul>
 
 <ul>
 	<li><b> A First Look at Self-Admitted Miscommunications in GitHub Issues</b>
@@ -10,7 +19,7 @@ permalink: /publications/
 		    <b>Kazi Amit Hasan</b>, Vu Thanh Loc Mai, Cynthia Wang, Yuan Tian, Steven H. H. Ding
 			<br/>
 			HSCE&CS 2024
- <a href='#'>[Paper]</a>
+ <a href='https://dl.acm.org/doi/abs/10.1145/3691621.3694942'>[Paper]</a>
 			<br/>
 	</li>
 </ul>

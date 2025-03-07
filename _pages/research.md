@@ -7,6 +7,12 @@ I have had the opportunity to work on a number of interesting research projects 
 
 Here is a summary of some of my research efforts.
 
+## Understanding Abandonment and Slowdown Dynamics in the Maven Ecosystem [MSR 2025]
+### Kazi Amit Hasan, Jerin Yasmin, Huizi Hao, Yuan Tian, Safwat Hassan, Steven Ding
+
+The sustainability of libraries is critical for modern software development, yet many libraries face abandonment, posing significant risks to dependent projects. This study explores the prevalence and patterns of library abandonment in the Maven ecosystem. We investigate abandonment trends over the past decade, revealing that approximately one in four libraries fail to survive beyond their creation year. We also analyze the release activities of libraries, focusing on their lifespan and release speed, and analyze the evolution of these metrics within the lifespan of libraries. We find that while slow release speed and relatively long periods of inactivity are often precursors to abandonment, some abandoned libraries exhibit bursts of high frequent release activity late in their life cycle. Our findings contribute to a new understanding of library abandonment dynamics and offer insights for practitioners to identify and mitigate risks in software ecosystems.
+
+
 
 ## A First Look at Self-Admitted Miscommunications in GitHub Issues [HSCE&CS 2024]
 ### Kazi Amit Hasan, Vu Thanh Loc Mai, Cynthia Wang, Yuan Tian, Steven H. H. Ding 

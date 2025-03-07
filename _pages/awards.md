@@ -6,7 +6,8 @@ permalink: /awards/
 ## Scholarships
 
 <ul>
-                <li>Queen's University International General Bursary Award, 2023</li>
+                <li>500 USD grants to participate ICSE 2025 in Ottawa, Canada in-person and Student Mentoring Workshop, ACM SIGSOFT ICSE Travel Support, 2025.</li>
+                <li>Queen's University International General Bursary Award, 2024</li>
                 <li>Awarded MITACS Business Strategy Internship (BSI), 2023.</li>
                 <li>Queen's University International General Bursary Award, 2022</li>
                 <li>Queen's Graduate Award, 2022</li>

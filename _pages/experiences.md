@@ -7,10 +7,10 @@ permalink: /experiences/
 
 ## Louis W Bray Construction Limited 
 
-Bid Optimization Analyst (August 2024 - Present)
+Bid Optimization Analyst (August 2024 - February 2025)
 
-
-Working as a part time bid optimization analyst to help LWB to optimize and increase overall operational success utilizing data analytics and machine learning tools. 
+       <li>Conducted data-driven analysis to assess market trends and provide recommendations for bid submissions.\</li>
+       <li> Leveraged data analytics to support business operations, driving efficiency and optimizing key processes.</li>
 
 ## Queen's University
 
@@ -18,8 +18,8 @@ Graduate Teaching Assistant (January 2023 - Present)
 
 Responsibilities:
 
-<li> Head Teaching assistant of CISC 235:  Data Structure</li>
-<li> Teaching assistant of CISC 320: Fundamentals of Software Development</li>
+<li> Head Teaching assistant of CISC 235 (x2):  Data Structure</li>
+<li> Teaching assistant of CISC 320 (x2): Fundamentals of Software Development</li>
 <li> Teaching assistant of CISC 351: Advanced Data Analytics</li>
 
 ## Louis W Bray Construction Limited (MITACS Business Strategy Internship)
