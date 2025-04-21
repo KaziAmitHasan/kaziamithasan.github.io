@@ -22,12 +22,11 @@ permalink: /teaching/
 ## Academic Services
 
 <ul>
-         <li> Sub reviewer of FSE 2025</li>
 		 <li> Reviewer of Neurocomputing</li>
 		  <li> Program committee member of SANER 2025</li>
         <li> Junior Program committee member of MSR 2025</li>
 		  <li> Program committee member of HCSE&CS 2024</li>
-		  <li> Sub reviewer of FSE 2023</li>
-		  <li> Sub reviewer of ASE 2023</li>
+         <li> Sub reviewer of FSE 2025, ICSE 25, ASE 2023, FSE 2023</li>
+
 
 </ul>

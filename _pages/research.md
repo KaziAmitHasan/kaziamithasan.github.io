@@ -5,9 +5,6 @@ permalink: /research/
 
 I have had the opportunity to work on a number of interesting research projects during my Ph.D. My research work is focused towards data mining, machine learning, mining software repositories, software engineering, deep learning, data analytics.
 
-
-
-<h2>Developed Software/Tools for SE Research</h2>
 <ul>
   <li>
     <strong>T1. PR-Accelerator</strong> <span style="float:right;">May 2023</span><br>
