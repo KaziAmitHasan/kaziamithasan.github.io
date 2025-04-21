@@ -9,8 +9,7 @@ permalink: /experiences/
 
 Bid Optimization Analyst (August 2024 - February 2025)
 
-       <li>Conducted data-driven analysis to assess market trends and provide recommendations for bid submissions.\</li>
-       <li> Leveraged data analytics to support business operations, driving efficiency and optimizing key processes.</li>
+<li>Automated the structuring of 4,000+ unstructured tender sheets, reducing manual review by 100%, and developed a bid prediction tool using custom scripting and regression techniques to provide real-time market and competitor insights.</li>
 
 ## Queen's University
 

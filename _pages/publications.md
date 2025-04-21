@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 ---
 <ul>
@@ -73,7 +73,7 @@ permalink: /publications/
 	</li>
 </ul>
 
-<ul>
+<!-- <ul>
 	<li><b> Classification of Parkinson's Disease by Analyzing Multiple Vocal Features Sets</b>
 			<br/>
 			<b>Kazi Amit Hasan</b>, Md Al Mehedi Hasan
@@ -81,9 +81,9 @@ permalink: /publications/
 			2020 IEEE Region 10 Symposium (TENSYMP) <a href='https://ieeexplore.ieee.org/abstract/document/9230842'>[Paper]</a>
             <br/>
 	</li>
-</ul>
+</ul> -->
 
-<ul>
+<!-- <ul>
 	<li><b> Identification and Analysis of Risk Factors of Lower Back Pain Using Machine Learning Approaches</b>
 			<br/>
 			<b>Kazi Amit Hasan</b>, Md Al Mehedi Hasan
@@ -91,4 +91,4 @@ permalink: /publications/
 			2020 11th International Conference on Electrical and Computer Engineering (ICECE) <a href='https://ieeexplore.ieee.org/abstract/document/9393098'>[Paper]</a>
             <br/>
 	</li>
-</ul>
+</ul> -->

@@ -2,6 +2,7 @@
 title: "Teaching & Services"
 permalink: /teaching/
 ---
+## Teaching
 
 <ul>
 	<li>

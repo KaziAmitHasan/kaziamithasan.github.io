@@ -1,11 +1,29 @@
 ---
-title: "Research & Developed Artifacts"
+title: "Developed Software/Tools for SE Research"
 permalink: /research/
 ---
 
 I have had the opportunity to work on a number of interesting research projects during my Ph.D. My research work is focused towards data mining, machine learning, mining software repositories, software engineering, deep learning, data analytics.
 
-Here is a summary of some of my research efforts.
+
+
+<h2>Developed Software/Tools for SE Research</h2>
+<ul>
+  <li>
+    <strong>T1. PR-Accelerator</strong> <span style="float:right;">May 2023</span><br>
+    <em>Associated with "Understanding the Time to First Response In GitHub Pull Requests" (MSR 2023)</em> — reports analytics and information regarding pull requests (PRs) and points out the delays in first response.
+  </li>
+  <li>
+    <strong>T2. PR-Stats</strong> <span style="float:right;">January 2023</span><br>
+    An open-source Python library which brings different stats about pull requests.
+  </li>
+  <li>
+    <strong>T3. Data Inspector</strong> <span style="float:right;">August 2021</span><br>
+    A tool which brings a total of 15 essential exploratory data analysis, data cleaning automation to make a dataset understandable.
+  </li>
+</ul>
+
+<!-- Here is a summary of some of my research efforts.
 
 ## Understanding Abandonment and Slowdown Dynamics in the Maven Ecosystem [MSR 2025]
 ### Kazi Amit Hasan, Jerin Yasmin, Huizi Hao, Yuan Tian, Safwat Hassan, Steven Ding
@@ -57,4 +75,4 @@ the delays they experience for their pull requests.
 
 **Impact:** We have released <a href = 'https://github.com/RISElabQueens/PR-Accelerator'> PR-Accelerator </a> which includes a set of tools that reports analytics and information regarding pull requests (PRs) and points out the delays in first response. This tool was presented in our paper titled [Understanding the Time to First Response In GitHub Pull Requests](https://arxiv.org/abs/2304.08426) published at the [MSR 2023](https://conf.researchr.org/home/msr-2023) conference.
 
-**Related resources:** <a href = 'https://arxiv.org/abs/2304.08426'> Paper </a>, <a href = '#'> Replication Package </a>, <a href = 'https://github.com/RISElabQueens/PR-Accelerator'> Tool released </a>
+**Related resources:** <a href = 'https://arxiv.org/abs/2304.08426'> Paper </a>, <a href = '#'> Replication Package </a>, <a href = 'https://github.com/RISElabQueens/PR-Accelerator'> Tool released </a> -->
