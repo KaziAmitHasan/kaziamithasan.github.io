@@ -8,8 +8,8 @@ permalink: /publications/
 		<b>Kazi Amit Hasan</b>, Jerin Yasmin, Huizi Hao, Yuan Tian, Safwat Hassan, Steven Ding<br/>
 		Presented at <b>MSR 2025</b> 
 		<a href='#'>[Paper]</a><br/>
-		<span style="color: #d35400; font-weight: bold;">🏆 MSR 2025 Challenge Track Best Student Presentation Award</span><br/>
-		<span style="color: #2980b9;">🎖️ Nominated for best paper award</span>
+		<span style="color: #d35400; font-weight: bold;">🏆 Received MSR 2025 Challenge Track Best Student Presentation Award</span><br/>
+		<span style="color: #2980b9;">🎖️ Nominated for best paper award (top 5)</span>
 	</li>
 </ul>
 
