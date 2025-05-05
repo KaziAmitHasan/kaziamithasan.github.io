@@ -29,7 +29,7 @@ permalink: /publications/
 			<br/>
 		    Huizi Hao, <b>Kazi Amit Hasan</b>, Hong Qin, Marcos Macedo, Yuan Tian, Steven H. H. Ding , Ahmed E. Hassan
 			<br/>
-			Empirical Software Engineering (EMSE) 
+			Empirical Software Engineering (EMSE) and ICSE Journal-First 
  <a href='#'>[Paper]</a>
 			<br/>
 	</li>
