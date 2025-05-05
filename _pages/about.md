@@ -36,6 +36,10 @@ Here's quick preview of Kazi Amit Hasan:
 ## Recent Updates!
 
 <ul>
+        <li>[April 2025] Won MSR 2025 Distinguished Junior Reviewer Award</li>
+        <li>[April 2025] Won MSR 2025 Challenge Track Best Student Presentation Award</li>
+        <li> [April 2025] Presented our paper at MSR 2025, co located with ICSE 20255 </li>
+        <li> [April 2025] Received conference travel award to attend MSR 2025, co located with ICSE 20255 </li>
         <li>[January 2025] Paper accepted in MSR mining challenge track (MSR 2025)</li>
         <li>[December 2024] Serving on the program committee for COMPSAC 2025.</li>
 

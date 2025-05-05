@@ -6,6 +6,13 @@ permalink: /awards/
 ## Scholarships
 
 <ul>
+                <li class="highlight-award">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="fireworks" width="30" style="vertical-align:middle;">
+  <strong>Won MSR 2025 Distinguished Junior Reviewer Award</strong>
+</li>
+                <li> Won MSR 2025 Distinguished Junior Reviewer Award </li>
+                <li> Won MSR 2025 Challenge Track Best Student Presentation Award </li>
+                <li> Received Queen's conference travel award to attend MSR 2025, co-located with ICSE 2025 at Ottawa.</li>
                 <li>500 USD grants to participate ICSE 2025 in Ottawa, Canada in-person and Student Mentoring Workshop, ACM SIGSOFT ICSE Travel Support, 2025.</li>
                 <li>Queen's University International General Bursary Award, 2024</li>
                 <li>Awarded MITACS Business Strategy Internship (BSI), 2023.</li>
