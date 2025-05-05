@@ -3,13 +3,13 @@ title: "Selected Publications"
 permalink: /publications/
 ---
 <ul>
-	<li><b> Understanding Abandonment and Slowdown Dynamics in the Maven Ecosystem</b>
-			<br/>
-		    <b>Kazi Amit Hasan</b>, Jerin Yasmin, Huizi Hao, Yuan Tian, Safwat Hassan, Steven Ding
-			<br/>
-			MSR 25
- <a href='#'>[Paper]</a>
-			<br/>
+	<li>
+		<b>Understanding Abandonment and Slowdown Dynamics in the Maven Ecosystem</b><br/>
+		<b>Kazi Amit Hasan</b>, Jerin Yasmin, Huizi Hao, Yuan Tian, Safwat Hassan, Steven Ding<br/>
+		Presented at <b>MSR 2025</b> 
+		<a href='#'>[Paper]</a><br/>
+		<span style="color: #d35400; font-weight: bold;">🏆 MSR 2025 Challenge Track Best Student Presentation Award</span><br/>
+		<span style="color: #2980b9;">🎖️ Nominated for best paper award</span>
 	</li>
 </ul>
 
