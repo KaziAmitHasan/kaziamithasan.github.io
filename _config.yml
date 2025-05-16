@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kazi Amit Hasan"
   avatar           : "shuvo.jpg"
-  bio              : "PhD Student in School of Computing at Queen's University | Ex-ML Engineer at ACI Limited"
+  bio              : "Fast Track PhD Student in School of Computing at Queen's University | Ex-ML Engineer at ACI Limited"
   location         : "Kingston, Ontario, Canada"
   employer         : "Queen's University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=t9ko5DMAAAAJ&hl=en"
-  email            : "kaziamit.hasan@queensu.ca"
+  email            : "kaziamit[dot]hasan[at]queensu.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
