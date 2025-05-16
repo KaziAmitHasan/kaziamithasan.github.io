@@ -36,7 +36,7 @@ Here's quick preview of Kazi Amit Hasan:
 ## Recent Updates!
 
 <ul>
-        <li>[April 2025] <span style="color: #2980b9;"> Won MSR 2025 Distinguished Junior Reviewer Award </span></li>
+        <li>[April 2025] <span style="color: #2980b9;">🎖️  Won MSR 2025 Distinguished Junior Reviewer Award </span></li>
         <li>[April 2025] <span style="color: #2980b9;">🎖️ Won MSR 2025 Challenge Track Best Student Presentation Award</span> </li>
         <li> [April 2025] Presented our paper at MSR 2025, co located with ICSE 20255 </li>
         <li> [April 2025] Received conference travel award to attend MSR 2025, co located with ICSE 20255 </li>
