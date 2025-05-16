@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Kazi Amit Hasan is currently pursuing his PhD in Computing at Queen's University under the supervision of Dr. Yuan Tian and Dr. Steven Ding. His research interests encompass a broad spectrum, including data mining, software engineering, and machine learning. Prior to his doctoral studies, he worked as a Machine Learning Engineer at ACI Limited in Bangladesh.
+Kazi Amit Hasan is currently pursuing his PhD (fast-track) in Computing at Queen's University under the supervision of Dr. Yuan Tian and Dr. Steven Ding. His research interests encompass a broad spectrum, including data mining, software engineering, and machine learning. Prior to his doctoral studies, he worked as a Machine Learning Engineer at ACI Limited in Bangladesh.
 
 Here's quick preview of Kazi Amit Hasan:
 
@@ -24,7 +24,7 @@ Here's quick preview of Kazi Amit Hasan:
 ## Education
 
 <ul>
-	<li> [Current] <b>Doctor of Philosophy - PhD in Computing</b>, Queen's University (May 2023 - Present)
+	<li> [Current] <b>Doctor of Philosophy - PhD (Fast-Track) in Computing</b>, Queen's University (May 2023 - Present)
   </li>
   <li> Master of Science - MSc in Computing, Queen's University (September 2022 - May 2023)
   <p>- Promoted to doctoral program without completion of your master’s degree for excellent research contribution</p>
@@ -36,8 +36,8 @@ Here's quick preview of Kazi Amit Hasan:
 ## Recent Updates!
 
 <ul>
-        <li>[April 2025] Won MSR 2025 Distinguished Junior Reviewer Award</li>
-        <li>[April 2025] Won MSR 2025 Challenge Track Best Student Presentation Award</li>
+        <li>[April 2025] <span style="color: #2980b9;"> Won MSR 2025 Distinguished Junior Reviewer Award </span></li>
+        <li>[April 2025] <span style="color: #2980b9;">🎖️ Won MSR 2025 Challenge Track Best Student Presentation Award</span> </li>
         <li> [April 2025] Presented our paper at MSR 2025, co located with ICSE 20255 </li>
         <li> [April 2025] Received conference travel award to attend MSR 2025, co located with ICSE 20255 </li>
         <li>[January 2025] Paper accepted in MSR mining challenge track (MSR 2025)</li>
@@ -58,7 +58,7 @@ Here's quick preview of Kazi Amit Hasan:
           <li> [September 2023] Paper accepted in SSCI 2023</li>
           <li> [September 2023] Received International Queen's Graduate Award</li>
           <li> [June 2023] Sub reviewer of ASE 2023</li>
-          <li> [May 2023] Promoted to PhD program from MSc at Queen's University, Canada</li>
+          <li> [May 2023] Promoted to Fast Track PhD program from MSc at Queen's University, Canada</li>
           <li> [May 2023] Published PR-Accelerator</li>
           <li> [March 2023] Paper accepted in MSR 2023</li>
           <li> [January 2023] Published PR Stats</li>

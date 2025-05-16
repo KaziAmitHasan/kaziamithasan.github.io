@@ -20,6 +20,8 @@ permalink: /teaching/
 </ul>
 
 ## Students mentored
+<li> Enrong Pang (School of Computing, Queen’s University)</li>
+
 <li> Vu Thanh Loc Mai (School of Computing, Queen’s University)</li>
 <li> Cynthia Wang (School of Computing, Queen’s University)</li>
 
